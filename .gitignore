@@ -1,0 +1,21 @@
+.classpath
+.project
+.settings/
+build/
+target/
+src/
+
+app/lib/*.jar
+lib/*.jar
+tmp/
+# Intellij
+.idea/
+.gradle/
+*.iml
+*.iws
+**.swp
+**.swo
+
+cucumber.html
+cucumber.json
+.DS*
